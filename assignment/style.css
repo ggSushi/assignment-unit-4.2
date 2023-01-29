@@ -1,0 +1,22 @@
+header {
+background-color: red;
+color: gold;
+text-align: center;
+}
+
+.info {
+background-color: gold;
+color: red;
+text-align: center;
+}
+
+h3 {
+background-color: green;
+color: gold;
+}
+
+body {
+    border: 5px solid rgb(191, 162, 0);
+    border-radius: 15px;
+    text-align: center;
+}
